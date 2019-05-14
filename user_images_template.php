@@ -35,7 +35,7 @@ get_header(); ?>
       $user_image_cats = get_the_terms($user_image->ID, 'sui_image_category');
 
       foreach($user_image_cats as $cat){
-      
+
         $user_image_cat = $cat->name;
 
       }

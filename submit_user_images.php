@@ -1,12 +1,10 @@
 <?php
 /*
 Plugin Name: Submit User Images
-Plugin URI: http://wp.rosselliot.co.nz/user-images/
 Description: Allows registered users to submit images.
 Version: 1.0
 License: GPLv2
-Author: Ross Elliot
-Author URI: http://wp.rosselliot.co.nz
+Author: Jack SKehan
 */
 
 define('MAX_UPLOAD_SIZE', 200000);
